@@ -39,3 +39,7 @@ Reveals the five pizzas with the highest sales volume.
 
 ### 7. Top 5 Pizzas by Total Orders:
 Lists the five pizzas most frequently ordered.
+
+
+### Hear is The Dashboard Link
+https://github.com/reddysekhar3524-ship-it/Pizza-Sales-Power-BI-Project/blob/main/Pizza%20Sales.pbix
