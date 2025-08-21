@@ -42,4 +42,5 @@ Lists the five pizzas most frequently ordered.
 
 
 ### Hear is The Dashboard Link
-https://github.com/reddysekhar3524-ship-it/Pizza-Sales-Power-BI-Project/blob/main/Pizza%20Sales.pbix
+Screenshot 2025-08-21 151211.png
+Screenshot 2025-08-21 151300.png
