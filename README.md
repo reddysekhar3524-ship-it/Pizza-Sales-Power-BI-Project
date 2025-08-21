@@ -41,6 +41,6 @@ Reveals the five pizzas with the highest sales volume.
 Lists the five pizzas most frequently ordered.
 
 
-### Hear is The Dashboard Link
-Screenshot 2025-08-21 151211.png
-Screenshot 2025-08-21 151300.png
+### Hear is The Dashboard image
+[Home](https://github.com/reddysekhar3524-ship-it/Pizza-Sales-Power-BI-Project/blob/main/Screenshot%202025-08-21%20151211.png)
+[Best/Worest seller](https://github.com/reddysekhar3524-ship-it/Pizza-Sales-Power-BI-Project/blob/main/Screenshot%202025-08-21%20151300.png)
